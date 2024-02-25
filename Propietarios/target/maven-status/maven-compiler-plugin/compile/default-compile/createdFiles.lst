@@ -1,0 +1,5 @@
+com\mycompany\propietario\DatabaseConnection.class
+com\mycompany\propietario\DAO.class
+com\mycompany\propietario\Propietario.class
+com\mycompany\propietario\Main.class
+com\mycompany\propietario\PropietarioDAO.class
